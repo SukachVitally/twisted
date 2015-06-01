@@ -1,0 +1,7 @@
+2015-06-01 11:54:38+0300 [-] Log opened.
+2015-06-01 11:54:38+0300 [-] EchoFactory starting on 8000
+2015-06-01 11:54:38+0300 [-] Starting factory <__main__.EchoFactory instance at 0x7f57d895b6c8>
+2015-06-01 11:54:51+0300 [-] Received SIGINT, shutting down.
+2015-06-01 11:54:51+0300 [__main__.EchoFactory] (TCP Port 8000 Closed)
+2015-06-01 11:54:51+0300 [__main__.EchoFactory] Stopping factory <__main__.EchoFactory instance at 0x7f57d895b6c8>
+2015-06-01 11:54:51+0300 [-] Main loop terminated.
