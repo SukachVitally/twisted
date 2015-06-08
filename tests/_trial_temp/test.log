@@ -1,0 +1,6 @@
+2015-06-08 18:02:36+0300 [-] Log opened.
+2015-06-08 18:02:36+0300 [-] --> test_db_cred.DBCredentialsCheckerTestCase.test_requestAvatarIdBadCredentials <--
+2015-06-08 18:02:36+0300 [-] --> test_db_cred.DBCredentialsCheckerTestCase.test_requestAvatarIdGoodCredentials <--
+2015-06-08 18:02:36+0300 [-] Main loop terminated.
+2015-06-08 18:02:36+0300 [-] --> test_db_cred.DBCredentialsCheckerTestCase.test_requestAvatarIdNoUser <--
+2015-06-08 18:02:36+0300 [-] Main loop terminated.
